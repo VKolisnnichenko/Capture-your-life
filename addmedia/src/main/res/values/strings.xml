@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i_want_to">I want to...</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="record_a_video">Record a video</string>
+</resources>

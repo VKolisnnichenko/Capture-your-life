@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mainscreen</string>
+    <string name="you_don_t_have_any_media_yet_maybe_this_is_the_right_time_to_add">You don\'t have any media yet, maybe this is the right time to add?</string>
+    <string name="no_preview">No Preview</string>
+</resources>

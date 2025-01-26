@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CaptureYourLife" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:colorPrimary">@color/color_primary</item>
+        <item name="android:background">@color/background_color</item>
+    </style>
+</resources>

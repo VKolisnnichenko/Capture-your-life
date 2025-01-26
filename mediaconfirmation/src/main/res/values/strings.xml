@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remove">Remove</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="remove_media">Remove Media</string>
+    <string name="are_you_sure_that_you_want_to_remove_the_media_you_created">Are you sure that you want to remove the media you created?</string>
+    <string name="confirm">Confirm</string>
+    <string name="save">Save</string>
+    <string name="want_to_note_something_special">Want to note something special? :)</string>
+    <string name="enter_your_notes_here">Enter your notes here…</string>
+    <string name="cancel">Cancel</string>
+</resources>

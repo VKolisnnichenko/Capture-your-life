@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capture your life</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="camera_permission_is_required_to_take_photos_or_record_videos_please_enable_it_in_settings">Camera permission is required to take photos or record videos. Please enable it in settings.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
